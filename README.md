@@ -48,5 +48,20 @@ treatment fails to meet the patient's needs, retention will be lowered.
 
 Assuming that the treatment offered is accurate based on the aforementioned
 factors, we now turn our focus to adherence. Clients will not adhere to treatment
+if they perceive it as not meeting their needs. In addiction treatment,
+a key measure of adherence to the care plan is abstinence from using drugs or compulsive
+behavior to alter their mood or mind.
+
+Assuming the client is getting better with treatment, symptom resolution is a 
+core outcome measure. VSAP measures the primary symptoms of addiction that have been
+included in our assessments. In implementing symptom resolution, we
+cannot ignore the progressive nature of the illness. Primary addiction is a 
+chronic progressive illness, and while permanent lack of progression is
+impossible, it is the goal of all chronic disease treatment to maintain survival
+until the patient dies of some other cause. Lack of progression will
+largely be measured during monitoring using the same VSAP Symptom Score mentioned
+above.
+
+
 
 
