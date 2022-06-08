@@ -76,6 +76,18 @@ if it is not enjoyed. Measurements such as arguemnts at home, helathcare,
 and expansion of personal relationships can be used as measures of 
 quality of life.
 
+In any chronic illness symptoms may reemerge after they are suppressed. 
+Our monitoring will meassure relapse of symptoms using our Symptom Score.
+
+Finally, all of these measures can be turned into a ratio by dividing
+by the cost of care used to attain them. This will give us a 
+measure of cost effectiveness of treatment.
+
+In general, because we will not have specific end points, our 
+primary statistical methodology will be that of repeated meausures 
+and survival analysis. We will use other toools as well to elucidate 
+the connections and correlations between our outcomes and many will 
+interact.
 
 
 
