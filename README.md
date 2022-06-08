@@ -46,4 +46,7 @@ which determines the solution and readiness of the client. If treatment is
 poorly matched with client goals, retention will be lowered. Likewise, if 
 treatment fails to meet the patient's needs, retention will be lowered.
 
+Assuming that the treatment offered is accurate based on the aforementioned
+factors, we now turn our focus to adherence. Clients will not adhere to treatment
+
 
