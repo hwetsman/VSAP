@@ -62,6 +62,20 @@ until the patient dies of some other cause. Lack of progression will
 largely be measured during monitoring using the same VSAP Symptom Score mentioned
 above.
 
+Chronic diseases cause sequelae. In diabetes it is such things as vascular disease 
+and vision loss. In addiction the sequelae include such things as trouble with the law, 
+increased healthcare costs, loss of work, or underemployment. We will 
+measure the sequelae or lack of them.
+
+With treatment comes life extension, so we will measure longevity. As
+logevity is a very long term measurement, its inverse, mortality,
+is used as a proxy.
+
+Quality of life factors are also critical. It makes no sense to extend life
+if it is not enjoyed. Measurements such as arguemnts at home, helathcare, 
+and expansion of personal relationships can be used as measures of 
+quality of life.
+
 
 
 
