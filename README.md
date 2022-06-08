@@ -14,14 +14,15 @@ treatment.
 
 ### What We Do
 
-Patient do not arrive at our door pre-dagnosed and are immediately assessed. The
-assessment will take into account the presence or absence of illness, the
-social context of the patient, and other factors to arrive at a suggested
-solution for the patient's problem.
+Clients arrive undiagnosed and unassessed. The assessment will take into 
+account the presence or absence of illness, the social context of the patient, 
+and other factors to arrive at a suggested solution for the patient's problem.
 
-Both patients who are ill and those who are not will present themselves for a 
-solution to the problem they are experiencing, namely legal consequences of 
-substance use. The assessment will determine if illness is present.
+Both patients who are ill and those who are not seek a solution for 
+the problem they are experiencing, namely legal consequences of 
+substance use. The assessment will determine if illness is present. If treatment 
+for illness is required, referral is made. If no illness is present, the client
+is offered an educational solution.
 
 The patient may or may not accept the offered solution, and it is part of 
 treatment to continually monitor the patient for the need for different care and to 
