@@ -89,5 +89,5 @@ and survival analysis. We will use other toools as well to elucidate
 the connections and correlations between our outcomes and many will 
 interact.
 
-
+NB: There is a VSAP portal designed to keep these outcomes
 
